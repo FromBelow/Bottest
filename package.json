@@ -1,0 +1,17 @@
+{
+  "name": "ql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "./start.sh"
+  },
+  "dependencies": {
+	"mongoose": 5.5.4,
+	"node-qiwi-api": 1.1.1,
+	"node-telegram-bot-api": 0.30.0,	
+  },
+  "author": "",
+  "license": "ISC"
+}
